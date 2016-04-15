@@ -2,9 +2,9 @@
     "name": "xtend",
     "description": "extend like a boss",
     "repos": "https://github.com/Raynos/xtend.git",
-    "main": "index",
+    "main": "immutable",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
-    "version": "4.0.0"
+    "version": "4.0.1"
 }
